@@ -1,5 +1,5 @@
 # Overview
-Sentiment analysis with Andrew Trask. The main focus of this project is to understand how to create a neural network that can anlyse a review and classify it as bad or good.
+Sentiment analysis with [Andrew Trask](https://iamtrask.github.io). The main focus of this project is to understand how to create a neural network that can anlyse a review and classify it as bad or good.
 It is split into several parts:
 - curating a data set.
 - training a a neural network
@@ -27,4 +27,4 @@ jupyter notebook Sentiment\ Classification.ipynb
 
 
 ## Take a look
-You can open the jupyter notebook directly in github [Sentiment Classification.ipynb](https://github.com/s.batururimi/sentiment_analysis/blob/master/Sentiment\ analysis/Sentiment\ Classification.ipynb)
+You can open the jupyter notebook directly in github [Sentiment Classification.ipynb](https://github.com/sbatururimi/sentiment_analysis/blob/master/Sentiment%20Classification.ipynb)
