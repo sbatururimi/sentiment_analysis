@@ -30,4 +30,4 @@ jupyter notebook Sentiment\ Classification.ipynb
 You can open the jupyter notebook directly in github [Sentiment Classification.ipynb](https://github.com/sbatururimi/sentiment_analysis/blob/master/Sentiment%20Classification.ipynb)
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbatururimi/sentiment_analysis/blob/master/LICENSE)
